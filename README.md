@@ -30,6 +30,6 @@ If you would like to contribute to the development of this application, please f
 
 ## License
 
-This application is licensed under the `MIT License`.
+This application is licensed under the me.
 
 
