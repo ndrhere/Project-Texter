@@ -1,7 +1,7 @@
 
-# React Text Editor
+# Texter.Inc
 
-Welcome to React Text Editor! This application is designed to help you easily manipulate any text that you write.
+Welcome to React Text Editor!(Texter.Inc) This application is designed to help you easily manipulate any text that you write.
 
 ## Features
 
@@ -30,8 +30,6 @@ If you would like to contribute to the development of this application, please f
 
 ## Support
 
-If you have any questions or issues with the application, please don't hesitate to contact us at [email address].
+If you have any questions or issues with the application, please don't hesitate to contact us at [ndx199@gmail.com].
 
-## License
 
-This application is licensed under the `MIT License`.
