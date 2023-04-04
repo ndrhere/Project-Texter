@@ -28,8 +28,8 @@ To use the application, simply visit the website and begin typing in the text ed
 
 If you would like to contribute to the development of this application, please feel free to fork the repository and submit a pull request.
 
-## License
+## Enhancements 
 
-This application is licensed under the me.
+Always striving to make improvements to existing features or functionality in future.
 
 
