@@ -12,6 +12,7 @@ With our text editor, you can:
 - Copy your text
 - Clear your text
 - Download your Text as PDF 
+- Can use in Dark Mode
 
 ## Technologies Used
 
