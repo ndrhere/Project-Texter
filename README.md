@@ -11,6 +11,7 @@ With our text editor, you can:
 - Remove extra spaces
 - Copy your text
 - Clear your text
+- Download your Text as PDF 
 
 ## Technologies Used
 
